@@ -53,7 +53,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>springboot-cassandra</finalName>
+		<finalName>springboot-cassandra-init</finalName>
 	</build>
 
 
