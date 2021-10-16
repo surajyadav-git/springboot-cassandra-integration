@@ -3,7 +3,7 @@ package com.example.caasandra.springcassandraintegration;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class SpringCassandraIntegrationApplicationTests {
 
 	//@Test
